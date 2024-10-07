@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-nawale
+- 👋 Hi, I’m Manoj Nawale.
 - 👀 I’m interested in programming.
 - 📫 How to reach me nawalemanoj877@gmail.com
 
