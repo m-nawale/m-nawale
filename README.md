@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @m-nawale
-- 👀 I’m interested in programmin. (Computer Vision)
-- 🌱 I’m currently learning opencv
-- 💞️ I’m looking to collaborate on opencv
+- 👀 I’m interested in programming.
 - 📫 How to reach me nawalemanoj877@gmail.com
 
 <!---
