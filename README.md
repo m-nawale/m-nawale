@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manoj Nawale.
 - 👀 I’m interested in programming.
-- 📫 How to reach me nawalemanoj877@gmail.com
+- 📫 How to reach me nawalemanoj877@gmail.com | manoj.nawale.work@gmail.com
 
 <!---
 m-nawale/m-nawale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
