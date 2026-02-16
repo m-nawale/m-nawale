@@ -1,14 +1,24 @@
-I’m Manoj Nawale — a curious builder who believes technology should make life simpler, smarter, and more meaningful.
+Hi, I'm Manoj 👋
 
-I enjoy turning questions into systems — building data pipelines, structuring information, and designing tools that support better decisions.
+I'm an engineer and systems thinker based in Karlsruhe, Germany, with a Master's in Production & Operations Management from KIT. By day, I build decision support systems for production planning—architecting MILP optimization workflows (Gurobi), designing ETL pipelines (SQLAlchemy, Airflow), and creating dashboards (Power BI) that help planners make better decisions.
 
-I’m driven by the why behind problems, not just the how. I learn by doing, explore with intent, and build with care.
+By night (and weekends), I tinker here.
 
-Always learning. Always improving. Always building with the next question in mind.
+🔍 What you'll find in my repos:
+- Experiments with optimization models and scenario analysis
+- Data pipelines and ETL patterns I find interesting
+- Simulation projects (SimPy) exploring production and logistics problems
+- The occasional deep dive into Python tooling (Pydantic, Alembic, FastAPI)
+- Messy but honest explorations of things I'm learning
 
-📫 How to reach me nawalemanoj877@gmail.com | manoj.nawale.work@gmail.com
+🎯 Current fixations:
+- Explainability in optimization (what happens after solve()?)
+- Reproducible data workflows
+- Building things that work in the real world, not just in notebooks
 
-<!---
-m-nawale/m-nawale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Always learning: German (B1 in progress), cloud tools, and whatever problem crosses my desk next.
+
+📫 Reach me: manoj.nawale@outlook.com
+🔗 LinkedIn: linkedin.com/in/mnawale
+
+*Built with curiosity, held together by tests.*
