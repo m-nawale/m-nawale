@@ -18,6 +18,8 @@ By night (and weekends), I tinker here.
 
 🌱 Always learning: German (B1 in progress), cloud tools, and whatever problem crosses my desk next.
 
+*Open to Junior Data Analyst / OR Analyst / BI / Data Engineering opportunities.*
+
 📫 Reach me: manoj.nawale@outlook.com
 🔗 LinkedIn: linkedin.com/in/mnawale
 
